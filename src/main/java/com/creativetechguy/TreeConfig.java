@@ -10,7 +10,7 @@ import net.runelite.api.gameval.ObjectID;
 
 public enum TreeConfig {
     // Seconds from: https://oldschool.runescape.wiki/w/Woodcutting#Mechanics
-	OAK(27, new int[]{ObjectID.POH_SMALL_TREE3_5, ObjectID.OAKTREE}),
+	OAK(27, new int[]{ObjectID.POH_SMALL_TREE3_5, ObjectID.OAKTREE, ObjectID.AVIUM_OAK_1}),
 	WILLOW(30,
 		new int[]{ObjectID.WILLOWTREE, ObjectID.WILLOW_TREE2, ObjectID.WILLOW_TREE3, ObjectID.WILLOW_TREE4}),
 	TEAK(30, new int[]{ObjectID.TEAKTREE, ObjectID.PRIF_TEAKTREE, ObjectID.TEAKTREE_UPDATE}),
